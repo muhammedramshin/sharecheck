@@ -1,0 +1,57 @@
+
+$green :#06AB4D;
+
+.logo{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-top: 100px;
+}
+.login-form{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.login-form input{
+    border-radius: 8px;
+    padding: 10px;
+    border: 1px solid lightgrey;
+    box-shadow: 1px 2px 12px 1px #d3d3d34a;
+    outline: none;
+    width: 300px;
+}
+.login-form input[type='submit']{
+    border-radius: 8px;
+    padding: 10px;
+    color: white;
+    border: 1px solid lightgrey;
+    box-shadow: 1px 2px 12px 1px lightgrey;
+    background-color: #06AB4D;
+    width: 100%;
+}
+.login-form input[type='submit']:hover{
+    border-radius: 8px;
+    padding: 10px;
+    color: white;
+    border: 1px solid lightgrey;
+    box-shadow: 1px 2px 12px 1px lightgrey;
+    background-color: #059c46;
+    width: 100%;
+}
+.forgot{
+    font-size: 10px;
+    padding-bottom: 17px;
+    margin-top: -5px;
+    padding-right: 11px;
+    float: right
+}
+.footer{
+    width: 100%;
+    text-align: center;
+    padding-top: 60px;
+}
+.sinup-txt a{
+color: $green;
+font-weight: 600;
+}
