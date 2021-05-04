@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1620087704994,
+  "timestamp": 1620088450188,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -44,19 +44,19 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/icons/icon-128x128.png": "8e4a37fbbe92ed6438544f6493f81f30c73a0aa8",
+    "/assets/icons/icon-144x144.png": "e3fdf622fccac5268159c6f62685900e64a6e3e6",
+    "/assets/icons/icon-152x152.png": "1ac08ecc8a940d7de26c7433a239ac573e396352",
+    "/assets/icons/icon-192x192.png": "cb1489e8652e7d24b444a9ab876665212f458e55",
+    "/assets/icons/icon-384x384.png": "0ac41c2710b35d73a45f57fda9321155850118f3",
+    "/assets/icons/icon-512x512.png": "3d3093c2ab49161089a7d38ca0407b0105c0882d",
+    "/assets/icons/icon-72x72.png": "94c921594a459050420987d6c03ad13260ca7088",
+    "/assets/icons/icon-96x96.png": "d127a4f7f9c8f45e489dfae29864c9fe3bf2e606",
     "/assets/logo/logo.png": "4ddc6f17e5c81789ffc027c04967d235290ebf1d",
     "/favicon.ico": "0862abc091c1e5c8113c2ff7e7becaa4c348c535",
     "/index.html": "3871971ebe9a75aee9391df76a4a416f585d54dd",
     "/main.b982d73e8e1b7dfaa439.js": "300557d20aa05f5c5b5577f4b9fe96e6f9f640c1",
-    "/manifest.webmanifest": "565c2a29280cce831dab588a4ab464a5ff98055c",
+    "/manifest.webmanifest": "b7abc5da391fb497523e510285ac37ea60a296f1",
     "/polyfills.b9ec072fe83488c40b6c.js": "587930b9b17d188b4b5cd9c4a2f5b0595f155fd7",
     "/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/styles.dbc4a2089f8cfa9f92a4.css": "5142c21ece54c9b9afb6ef79757adacd08938bca"

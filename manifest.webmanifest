@@ -1,8 +1,8 @@
 {
-  "name": "sharecheckapp",
-  "short_name": "sharecheckapp",
-  "theme_color": "#1976d2",
-  "background_color": "#fafafa",
+  "name": "ShareCheck",
+  "short_name": "ShareCheck",
+  "theme_color": "#000",
+  "background_color": "#06ab4d",
   "display": "standalone",
   "scope": "./",
   "start_url": "./",
