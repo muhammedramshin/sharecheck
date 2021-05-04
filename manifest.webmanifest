@@ -1,9 +1,10 @@
 {
-  "name": "ShareCheck",
+  "name": "Welcome to ShareCheck",
   "short_name": "ShareCheck",
-  "theme_color": "#000",
+  "theme_color": "#06ab4d",
   "background_color": "#06ab4d",
   "display": "standalone",
+  "description": "Care what you share",
   "scope": "./",
   "start_url": "./",
   "icons": [
