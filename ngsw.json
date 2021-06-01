@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1622566569461,
-  "index": "https://muhammedramshin.github.io/sharecheck/index.html",
+  "timestamp": 1622575042340,
+  "index": "https://sharecheck.in/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://muhammedramshin.github.io/sharecheck/favicon.ico",
-        "https://muhammedramshin.github.io/sharecheck/index.html",
-        "https://muhammedramshin.github.io/sharecheck/main.9eca54b32910fc9bb8b2.js",
-        "https://muhammedramshin.github.io/sharecheck/manifest.webmanifest",
-        "https://muhammedramshin.github.io/sharecheck/polyfills.b9ec072fe83488c40b6c.js",
-        "https://muhammedramshin.github.io/sharecheck/runtime.7b63b9fd40098a2e8207.js",
-        "https://muhammedramshin.github.io/sharecheck/styles.8cf4fce2c0b2e50afccf.css"
+        "https://sharecheck.in/favicon.ico",
+        "https://sharecheck.in/index.html",
+        "https://sharecheck.in/main.9eca54b32910fc9bb8b2.js",
+        "https://sharecheck.in/manifest.webmanifest",
+        "https://sharecheck.in/polyfills.b9ec072fe83488c40b6c.js",
+        "https://sharecheck.in/runtime.7b63b9fd40098a2e8207.js",
+        "https://sharecheck.in/styles.8cf4fce2c0b2e50afccf.css"
       ],
       "patterns": []
     },
@@ -29,37 +29,37 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://muhammedramshin.github.io/sharecheck/assets/icons/icon-128x128.png",
-        "https://muhammedramshin.github.io/sharecheck/assets/icons/icon-144x144.png",
-        "https://muhammedramshin.github.io/sharecheck/assets/icons/icon-152x152.png",
-        "https://muhammedramshin.github.io/sharecheck/assets/icons/icon-192x192.png",
-        "https://muhammedramshin.github.io/sharecheck/assets/icons/icon-384x384.png",
-        "https://muhammedramshin.github.io/sharecheck/assets/icons/icon-512x512.png",
-        "https://muhammedramshin.github.io/sharecheck/assets/icons/icon-72x72.png",
-        "https://muhammedramshin.github.io/sharecheck/assets/icons/icon-96x96.png",
-        "https://muhammedramshin.github.io/sharecheck/assets/logo/logo.png"
+        "https://sharecheck.in/assets/icons/icon-128x128.png",
+        "https://sharecheck.in/assets/icons/icon-144x144.png",
+        "https://sharecheck.in/assets/icons/icon-152x152.png",
+        "https://sharecheck.in/assets/icons/icon-192x192.png",
+        "https://sharecheck.in/assets/icons/icon-384x384.png",
+        "https://sharecheck.in/assets/icons/icon-512x512.png",
+        "https://sharecheck.in/assets/icons/icon-72x72.png",
+        "https://sharecheck.in/assets/icons/icon-96x96.png",
+        "https://sharecheck.in/assets/logo/logo.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://muhammedramshin.github.io/sharecheck/assets/icons/icon-128x128.png": "8e4a37fbbe92ed6438544f6493f81f30c73a0aa8",
-    "https://muhammedramshin.github.io/sharecheck/assets/icons/icon-144x144.png": "e3fdf622fccac5268159c6f62685900e64a6e3e6",
-    "https://muhammedramshin.github.io/sharecheck/assets/icons/icon-152x152.png": "1ac08ecc8a940d7de26c7433a239ac573e396352",
-    "https://muhammedramshin.github.io/sharecheck/assets/icons/icon-192x192.png": "cb1489e8652e7d24b444a9ab876665212f458e55",
-    "https://muhammedramshin.github.io/sharecheck/assets/icons/icon-384x384.png": "0ac41c2710b35d73a45f57fda9321155850118f3",
-    "https://muhammedramshin.github.io/sharecheck/assets/icons/icon-512x512.png": "3d3093c2ab49161089a7d38ca0407b0105c0882d",
-    "https://muhammedramshin.github.io/sharecheck/assets/icons/icon-72x72.png": "94c921594a459050420987d6c03ad13260ca7088",
-    "https://muhammedramshin.github.io/sharecheck/assets/icons/icon-96x96.png": "d127a4f7f9c8f45e489dfae29864c9fe3bf2e606",
-    "https://muhammedramshin.github.io/sharecheck/assets/logo/logo.png": "4ddc6f17e5c81789ffc027c04967d235290ebf1d",
-    "https://muhammedramshin.github.io/sharecheck/favicon.ico": "0862abc091c1e5c8113c2ff7e7becaa4c348c535",
-    "https://muhammedramshin.github.io/sharecheck/index.html": "0c45212341f5d5aa8a94973234410d5816c87340",
-    "https://muhammedramshin.github.io/sharecheck/main.9eca54b32910fc9bb8b2.js": "87fc87541598fe838fc00ea5e194525ffc029e69",
-    "https://muhammedramshin.github.io/sharecheck/manifest.webmanifest": "df6eff4f9eab8c27f8b11141eb675c38eaca824f",
-    "https://muhammedramshin.github.io/sharecheck/polyfills.b9ec072fe83488c40b6c.js": "587930b9b17d188b4b5cd9c4a2f5b0595f155fd7",
-    "https://muhammedramshin.github.io/sharecheck/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "https://muhammedramshin.github.io/sharecheck/styles.8cf4fce2c0b2e50afccf.css": "33162b9186dbf96d4911e73bd54c7fadb67ef260"
+    "https://sharecheck.in/assets/icons/icon-128x128.png": "8e4a37fbbe92ed6438544f6493f81f30c73a0aa8",
+    "https://sharecheck.in/assets/icons/icon-144x144.png": "e3fdf622fccac5268159c6f62685900e64a6e3e6",
+    "https://sharecheck.in/assets/icons/icon-152x152.png": "1ac08ecc8a940d7de26c7433a239ac573e396352",
+    "https://sharecheck.in/assets/icons/icon-192x192.png": "cb1489e8652e7d24b444a9ab876665212f458e55",
+    "https://sharecheck.in/assets/icons/icon-384x384.png": "0ac41c2710b35d73a45f57fda9321155850118f3",
+    "https://sharecheck.in/assets/icons/icon-512x512.png": "3d3093c2ab49161089a7d38ca0407b0105c0882d",
+    "https://sharecheck.in/assets/icons/icon-72x72.png": "94c921594a459050420987d6c03ad13260ca7088",
+    "https://sharecheck.in/assets/icons/icon-96x96.png": "d127a4f7f9c8f45e489dfae29864c9fe3bf2e606",
+    "https://sharecheck.in/assets/logo/logo.png": "4ddc6f17e5c81789ffc027c04967d235290ebf1d",
+    "https://sharecheck.in/favicon.ico": "0862abc091c1e5c8113c2ff7e7becaa4c348c535",
+    "https://sharecheck.in/index.html": "79974c4c9ede235ba49f4f322a3279e12987c006",
+    "https://sharecheck.in/main.9eca54b32910fc9bb8b2.js": "87fc87541598fe838fc00ea5e194525ffc029e69",
+    "https://sharecheck.in/manifest.webmanifest": "df6eff4f9eab8c27f8b11141eb675c38eaca824f",
+    "https://sharecheck.in/polyfills.b9ec072fe83488c40b6c.js": "587930b9b17d188b4b5cd9c4a2f5b0595f155fd7",
+    "https://sharecheck.in/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://sharecheck.in/styles.8cf4fce2c0b2e50afccf.css": "33162b9186dbf96d4911e73bd54c7fadb67ef260"
   },
   "navigationUrls": [
     {
