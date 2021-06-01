@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1622575042340,
+  "timestamp": 1622575671551,
   "index": "https://sharecheck.in/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://sharecheck.in/favicon.ico",
         "https://sharecheck.in/index.html",
-        "https://sharecheck.in/main.9eca54b32910fc9bb8b2.js",
+        "https://sharecheck.in/main.6203ba2e62889014b301.js",
         "https://sharecheck.in/manifest.webmanifest",
         "https://sharecheck.in/polyfills.b9ec072fe83488c40b6c.js",
         "https://sharecheck.in/runtime.7b63b9fd40098a2e8207.js",
@@ -54,8 +54,8 @@
     "https://sharecheck.in/assets/icons/icon-96x96.png": "d127a4f7f9c8f45e489dfae29864c9fe3bf2e606",
     "https://sharecheck.in/assets/logo/logo.png": "4ddc6f17e5c81789ffc027c04967d235290ebf1d",
     "https://sharecheck.in/favicon.ico": "0862abc091c1e5c8113c2ff7e7becaa4c348c535",
-    "https://sharecheck.in/index.html": "79974c4c9ede235ba49f4f322a3279e12987c006",
-    "https://sharecheck.in/main.9eca54b32910fc9bb8b2.js": "87fc87541598fe838fc00ea5e194525ffc029e69",
+    "https://sharecheck.in/index.html": "b8adc5df600f7e7e3e7c8ae6520eb301ca60227b",
+    "https://sharecheck.in/main.6203ba2e62889014b301.js": "b6786ecb81240430f9e51a18d95ce77607003c39",
     "https://sharecheck.in/manifest.webmanifest": "df6eff4f9eab8c27f8b11141eb675c38eaca824f",
     "https://sharecheck.in/polyfills.b9ec072fe83488c40b6c.js": "587930b9b17d188b4b5cd9c4a2f5b0595f155fd7",
     "https://sharecheck.in/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
